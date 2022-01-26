@@ -11,7 +11,7 @@
 <ul>
 <li>Criar o arquivo de arestas baseados em níveis de correlação optado pelo usuário.</li>
 <li>Atribuir identificação para cada variável da matriz.</li>
-<li>Construir o arquivo de nó baseado nas informaçoes da variáveis.</li>
+<li>Construir o arquivo de nó baseado nas informaçoes das variáveis.</li>
 </ul></li>
 <li><p><code>networkCreate.py</code>Retornar os arquivos de nó e aresta no formato csv.</p></li>
 </ul>
